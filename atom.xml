@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fujianbang.github.io</id>
+    <id>http://fujianbang.github.io</id>
     <title>Hea1er的个人博客</title>
-    <updated>2019-12-30T14:06:32.935Z</updated>
+    <updated>2019-12-30T14:09:13.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fujianbang.github.io"/>
-    <link rel="self" href="https://fujianbang.github.io/atom.xml"/>
+    <link rel="alternate" href="http://fujianbang.github.io"/>
+    <link rel="self" href="http://fujianbang.github.io/atom.xml"/>
     <subtitle>玻璃晴朗 橘子辉煌</subtitle>
-    <logo>https://fujianbang.github.io/images/avatar.png</logo>
-    <icon>https://fujianbang.github.io/favicon.ico</icon>
+    <logo>http://fujianbang.github.io/images/avatar.png</logo>
+    <icon>http://fujianbang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Hea1er的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Jenkins部署]]></title>
-        <id>https://fujianbang.github.io/post/jenkins-bu-shu</id>
-        <link href="https://fujianbang.github.io/post/jenkins-bu-shu">
+        <id>http://fujianbang.github.io/post/jenkins-bu-shu</id>
+        <link href="http://fujianbang.github.io/post/jenkins-bu-shu">
         </link>
         <updated>2019-12-30T14:01:22.000Z</updated>
         <content type="html"><![CDATA[<p>TODO</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fujianbang.github.io/post/hello-gridea</id>
-        <link href="https://fujianbang.github.io/post/hello-gridea">
+        <id>http://fujianbang.github.io/post/hello-gridea</id>
+        <link href="http://fujianbang.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
